@@ -18,9 +18,8 @@ Follow these steps to get the backend up and running locally in just a few minut
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/GenisPT/backend_f6b81ce5-51ac-4b78-b1b1-a83e4e6187a0.git
-
-    cd backend_f6b81ce5-51ac-4b78-b1b1-a83e4e6187a0
+    git clone https://github.com/GenisPT/backend_f6b81ce5-51ac
+    cd backend_f6b81ce5-51ac
     ```
 
     Replace ```your-username``` with your actual GitHub username. If you don't have **Git**, download this repository as zip from the green **Code** button located at the main page of the repo.
