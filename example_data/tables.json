@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cbd75e33-f29d-463e-936c-efaf15738535",
+    "name": "1",
+    "status": "none",
+    "persons": 0,
+    "waitersID": "",
+    "waitersName": ""
+  },
+  {
+    "id": "e3a207ca-57c8-4605-841d-1a76a2a86ed2",
+    "name": "2",
+    "status": "none",
+    "persons": 0,
+    "waitersID": "",
+    "waitersName": ""
+  },
+  {
+    "id": "a8a36a65-fb0a-4287-89f6-d3929ce79474",
+    "name": "3",
+    "status": "queue",
+    "persons": 2,
+    "waitersID": "genis",
+    "waitersName": "Genís"
+  },
+  {
+    "id": "0ba540ee-cd7e-4b08-b4d9-cfd6d04dfea0",
+    "name": "4",
+    "status": "none",
+    "persons": 0,
+    "waitersID": "",
+    "waitersName": ""
+  },
+  {
+    "id": "0ec239b2-fbe3-4083-8f31-a088c721f7ee",
+    "name": "5",
+    "status": "none",
+    "persons": 0,
+    "waitersID": "",
+    "waitersName": ""
+  },
+  {
+    "id": "c5e99106-b983-4d81-aeb4-a6ec12b94d17",
+    "name": "6",
+    "status": "none",
+    "persons": 0,
+    "waitersID": "",
+    "waitersName": ""
+  }
+]

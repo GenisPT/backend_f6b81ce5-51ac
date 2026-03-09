@@ -1,0 +1,24 @@
+[
+  {
+    "id": "7146e015-34e9-4646-b0ef-c2b0487ea334",
+    "tag": "Restaurant 1",
+    "key": "A123456789",
+    "maxUses": 2,
+    "activations": [
+      "Device 1"
+    ],
+    "expiryDate": "2026-05-05 00:19:12.330338"
+  },
+  {
+    "id": "012e36c5-965d-4313-8637-3c8e4e3653b4",
+    "tag": "Restaurant 2",
+    "key": "B123456789",
+    "maxUses": 3,
+    "activations": [
+      "Device 1",
+      "Device 2",
+      "Device 3"
+    ],
+    "expiryDate": "2026-08-12 00:00:57.213454"
+  }
+]

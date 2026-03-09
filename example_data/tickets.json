@@ -1,0 +1,13 @@
+[
+  {
+    "id": "1",
+    "tableName": "3",
+    "waiterName": "Genís",
+    "openedDatetime": "2026-03-05 00:19:12.330338",
+    "closedDatetime": "2026-03-09 15:50:58.435939",
+    "persons": 2,
+    "paid": 59.2,
+    "paymentType": "Cash",
+    "registered": false
+  }
+]

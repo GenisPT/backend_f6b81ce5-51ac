@@ -1,0 +1,30 @@
+[
+  {
+    "id": "6aa3604b-e9c7-41bb-9171-1a46fb4c7627",
+    "name": "Roast chicken",
+    "isKitchen": true,
+    "category": "Dishes",
+    "price": 13.5
+  },
+  {
+    "id": "49bf4960-8e58-4dbd-83b5-7375b59bfb38",
+    "name": "Mashed potatoes",
+    "isKitchen": true,
+    "category": "Dishes",
+    "price": 8.75
+  },
+  {
+    "id": "9c0abee8-0e4c-4405-bce5-3918b9d9e741",
+    "name": "Orange fanta",
+    "isKitchen": false,
+    "category": "Drinks",
+    "price": 2.5
+  },
+  {
+    "id": "cf9b6df9-79c3-464f-89f2-7b55acd6257d",
+    "name": "Beer",
+    "isKitchen": false,
+    "category": "Drinks",
+    "price": 1.8
+  }
+]
