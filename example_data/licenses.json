@@ -1,0 +1,26 @@
+[
+  {
+    "type": "license",
+    "id": "7146e015-34e9-4646-b0ef-c2b0487ea334",
+    "tag": "Restaurant 1",
+    "key": "A123456789",
+    "maxUses": 2,
+    "activations": [
+      "Device 1|7df94139-7b9a-4e49-a05e-d231a0076077"
+    ],
+    "expiryDate": "2026-05-05 00:19:12.330338"
+  },
+  {
+    "type": "license",
+    "id": "012e36c5-965d-4313-8637-3c8e4e3653b4",
+    "tag": "Restaurant 2",
+    "key": "B123456789",
+    "maxUses": 3,
+    "activations": [
+      "Device 1|d4ffe2c9-9f4a-411d-be6b-b4c55ad41319",
+      "Device 2|4aaf720b-cf99-4dde-82bf-c1d2d8b83321",
+      "Device 3|754455ee-7172-43ee-b529-be2ac644c05b"
+    ],
+    "expiryDate": "2026-08-12 00:00:57.213454"
+  }
+]
